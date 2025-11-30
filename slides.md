@@ -61,6 +61,18 @@ style: |
 
 ---
 
+<!-- _class: contrast -->
+
+![bg](assets/grid.svg)
+
+## Architecture Footprint Overview
+
+- Microservices scope: Core Auth, Billing, Usage
+- Shared platform primitives documented in `/docs/platform`
+- Backward compatibility policy tracked via upgrade scorecards
+
+---
+
 ## Performance Math
 
 For the async diffing algorithm we document:
