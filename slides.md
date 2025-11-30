@@ -5,6 +5,7 @@ paginate: true
 math: mathjax
 headingDivider: 2
 backgroundColor: #0b1727
+footer: 'ProductX Docs — $slide$ / $total$'
 style: |
   section.contrast h2 {
     color: #f1f5f9;
